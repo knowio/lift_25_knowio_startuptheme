@@ -27,9 +27,9 @@ class Boot {
       Menu.i("About") / "about",
       Menu.i("Blog") / "blog",
       Menu.i("Contact") / "contact",
-      Menu.i("Plans") / "plans",
-      Menu.i("Tour") / "tour",
-      Menu.i("Sign in") / "signin",
+      //Menu.i("Plans") / "plans",
+      //Menu.i("Tour") / "tour",
+      //Menu.i("Sign in") / "signin",
 
       // more complex because this menu allows anything in the
       // /static path to be visible

@@ -64,7 +64,7 @@ a:hover {
     padding-top: 15px;
     text-shadow: 1px 1px 1px #ccc;
     overflow: hidden;
-    background: rgba(252, 252, 252, 0.2) url('../img/textures1.png') repeat;
+    background: rgba(252, 252, 252, 0.2) url('/images/textures1.png') repeat;
     border-top: 1px solid #E0E0E0;
     border-bottom: 1px solid #E0E0E0;
     -webkit-box-shadow: inset 0px 0px 3px rgba(80, 80, 80, 0.1);
@@ -112,7 +112,7 @@ h1 a i:hover {
 }
 
 .press.techcrunch {
-    background: url('../img/techcrunch-sprite.png') no-repeat top left;
+    background: url('/images/techcrunch-sprite.png') no-repeat top left;
 }
 
 .press.techcrunch:hover {
@@ -120,7 +120,7 @@ h1 a i:hover {
 }
 
 .press.webbys {
-    background: url('../img/webby-sprite.png') no-repeat top left;
+    background: url('/images/webby-sprite.png') no-repeat top left;
     width: 133px;
     height: 43px;
 }
@@ -130,7 +130,7 @@ h1 a i:hover {
 }
 
 .press.lifehacker {
-    background: url('../img/lifehacker-sprite.png') no-repeat top left;
+    background: url('/images/lifehacker-sprite.png') no-repeat top left;
     width: 159px;
     height: 45px;
 }
@@ -140,7 +140,7 @@ h1 a i:hover {
 }
 
 .press.betakit {
-    background: url('../img/betakit-sprite.png') no-repeat top left;
+    background: url('/images/betakit-sprite.png') no-repeat top left;
     width: 136px;
     height: 41px;
 }
@@ -221,7 +221,7 @@ footer {
     margin: 20px 0 0 0;
     padding: 20px 0 0 0;
     background-color: #f6f6f6;
-    background: #f6f6f6 url('../img/textures1.png') repeat;
+    background: #f6f6f6 url('/images/textures1.png') repeat;
     border-top: 1px solid #E0E0E0;
     -webkit-box-shadow: inset 0px 0px 3px rgba(80, 80, 80, 0.1);
     box-shadow: inset 0px 0px 3px rgba(80, 80, 80, 0.1);
@@ -262,7 +262,7 @@ footer {
     border-bottom: 1px solid rgba(150, 150, 150, 0.6);
     -webkit-box-shadow: 0px 3px 8px rgba(80, 80, 80, 0.3);
     box-shadow: 0px 3px 8px rgba(80, 80, 80, 0.3);
-    background: #F6F6F6 url('../img/textures1.png') repeat;
+    background: #F6F6F6 url('/images/textures1.png') repeat;
     text-align: center;
     -webkit-border-radius: 4px;
     border-radius: 4px;
@@ -278,7 +278,7 @@ footer {
 }
 
 .pricing-header {
-    background: rgba(255,255,255,0.9) url('../img/textures1.png') repeat;
+    background: rgba(255,255,255,0.9) url('/images/textures1.png') repeat;
     border-bottom: 1px solid rgba(150, 150, 150, 0.3);
     text-shadow: 1px 1px 1px #CCC;
     height: 37px;

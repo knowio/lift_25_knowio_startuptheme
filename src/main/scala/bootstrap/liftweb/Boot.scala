@@ -26,6 +26,7 @@ class Boot {
       Menu.i("Home") / "index", // the simple way to declare a menu
       Menu.i("About") / "about",
       Menu.i("Blog") / "blog",
+      Menu.i("Lab") / "lab",
       Menu.i("Contact") / "contact",
       //Menu.i("Plans") / "plans",
       //Menu.i("Tour") / "tour",

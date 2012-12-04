@@ -5,7 +5,7 @@
     position: relative;
     margin: 0px auto 30px auto;
     overflow: hidden;
-    background: rgba(252, 252, 252, 0.3) url('../img/textures1.png') repeat;
+    background: rgba(252, 252, 252, 0.3) url('/images/textures1.png') repeat;
     border-top: 1px solid #E0E0E0;
     border-bottom: 1px solid #E0E0E0;
     -webkit-box-shadow: inset 0px 0px 3px rgba(80, 80, 80, 0.1);
@@ -175,7 +175,7 @@
     height: 16px;
     top: 8px;
     left: 10px;
-    background: transparent url('../img/arrows.png') no-repeat top left;
+    background: transparent url('/images/arrows.png') no-repeat top left;
 }
 .da-arrows span:hover {
 /*     background-color: #008FF8; */

@@ -24,7 +24,7 @@ class Boot {
     // Build SiteMap
     val entries = List(
       Menu.i("Home") / "index", // the simple way to declare a menu
-      Menu.i("About") / "about",
+      //Menu.i("About") / "about",
       Menu.i("Blog") / "blog",
       Menu.i("Lab") / "lab",
       Menu.i("Contact") / "contact",

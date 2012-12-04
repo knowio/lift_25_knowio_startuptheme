@@ -34,6 +34,8 @@ a:hover {
     color: #222;
     text-shadow: 1px 1px 1px #eee;
     font-weight: bold;
+    /*font-variant: small-caps;
+    font-size: x-large;*/
     padding: 10px 0 0 20px;
 }
 
